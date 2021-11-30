@@ -10,8 +10,8 @@ _Necesitas tener instaldo php 7.4_
 
 ### Instalación
 
-_Necesitamos prepara la base de datos de MySql en el archivo " .env "  _
-_Acontinuación instalaremos la carpeta vendor _
+_Necesitamos prepara la base de datos de MySql en el archivo " .env "_
+_Acontinuación instalaremos la carpeta vendor_
 
 ```
 composer install 
@@ -37,7 +37,7 @@ _Todo esta listo para iniciar el servidor_
 php artisan serve 
 ```
 
-###Url()
+### Url()
 
 >`<link>` : http://127.0.0.1:8000/futbol
 
